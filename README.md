@@ -1,4 +1,4 @@
-**<h4>Intune Configuration Profile</h4>**
+<h4>Intune Configuration Profile</h4>
 
 Device profiles allow you to add and configure settings, and then push these settings to devices in your organization. You have some options when creating policies:
 
