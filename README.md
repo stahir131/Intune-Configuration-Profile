@@ -30,3 +30,5 @@ Assignments -> I have assigned this to the dynamic group I have created, “All 
 
 The config. looks like this before creation.
 
+![OneDrive1](https://github.com/stahir131/Intune-Configuration-Profile/assets/64047385/95faeccf-a686-4ccf-b6be-777714cbdb76)
+
